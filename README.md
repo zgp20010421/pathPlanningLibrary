@@ -9,3 +9,7 @@ https://blog.csdn.net/qq_54900679/article/details/137279115
 ```bash
 [https://blog.csdn.net/qq_54900679/article/details/137279115](https://download.pytorch.org/whl/cu102)
 ```
+### 3、数据集下载
+```bash
+https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+```
